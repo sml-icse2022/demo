@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -e
+conda install -y python=3.9.6
+pip install -r requirements.txt
